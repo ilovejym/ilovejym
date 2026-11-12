@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ilovejym&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilovejym&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilovejym&theme=tokyonight" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilovejym&theme=tokyonight" alt="Stats" />
 </p>
 
 <p>
