@@ -52,6 +52,7 @@
 <p>
   <a href="https://www.instagram.com/ilovejiangym/"><img src="https://img.shields.io/badge/Instagram-ilovejiangym-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.threads.com/@ilovejiangym"><img src="https://img.shields.io/badge/Threads-ilovejiangym-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="https://www.bing.com"><img src="https://img.shields.io/badge/Bing-00809D?style=flat-square&logo=microsoftbing&logoColor=white" alt="Bing" /></a>
 </p>
 
 <p align="center">
