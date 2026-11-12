@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/Muse-AI_agent-1e90ff?style=flat-square" alt="Muse" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,ubuntu,linux,git&theme=dark" alt="Skills" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p>
@@ -48,6 +52,10 @@
 <p>
   <a href="https://www.instagram.com/ilovejiangym/"><img src="https://img.shields.io/badge/Instagram-ilovejiangym-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.threads.com/@ilovejiangym"><img src="https://img.shields.io/badge/Threads-ilovejiangym-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=120&section=footer" />
