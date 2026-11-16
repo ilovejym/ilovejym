@@ -47,6 +47,10 @@
 
 ![snake](https://raw.githubusercontent.com/ilovejym/ilovejym/output/github-contribution-grid-snake.svg)
 
+## 📈 Activity Graph
+
+[![ilovejym's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilovejym)](https://github.com/ilovejym)
+
 ## 🤝 Connect with Me
 
 <p>
